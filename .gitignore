@@ -33,6 +33,8 @@ ENV/
 data/raw/
 data/interim/
 data/processed/
+SEC_Filings/
+.claude/
 
 # Environment variables
 .env
